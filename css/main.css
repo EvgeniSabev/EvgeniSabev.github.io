@@ -39,5 +39,7 @@ ul.posts {
 }
 
 ul.posts li {
+    color:#211e1e;
+
     list-style: none;
 }
